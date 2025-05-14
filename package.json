@@ -1,9 +1,4 @@
 {
-  "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon server.js",
-    "build": "netlify deploy"
-  },
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.5.0",
